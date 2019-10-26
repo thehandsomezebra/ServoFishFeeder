@@ -11,8 +11,10 @@
  
 
 ### Instructions
-1. Get your raspberry pi running with your
+1. Get your raspberry pi running with your preferred OS.  I use [https://www.raspbian.org/](https://www.raspbian.org/)
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDc5OTk0MCwzMzI0NTU5MSwxNDQzNz
-k1ODUyLC0xNTM2MTkzOTU1LDEyNDA1MzMyMjRdfQ==
+eyJoaXN0b3J5IjpbLTExNTU2OTQ5MTgsLTgyNDc5OTk0MCwzMz
+I0NTU5MSwxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1MzMy
+MjRdfQ==
 -->
