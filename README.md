@@ -4,8 +4,10 @@
 ### Parts List
 
  - Servo Motor
- - Raspber
+ - Raspberry Pi 3 B+
+ - 1k &ohm; resistor
+ - 3D Printed Feeder design from 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTE5NzE0MSwxMjQwNTMzMjI0XX0=
+eyJoaXN0b3J5IjpbLTE1MzYxOTM5NTUsMTI0MDUzMzIyNF19
 -->
