@@ -11,8 +11,8 @@
  
 
 ### Instructions
-
+1. Get your raspberry pi running with your
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNDU1OTEsMTQ0Mzc5NTg1MiwtMTUzNj
-E5Mzk1NSwxMjQwNTMzMjI0XX0=
+eyJoaXN0b3J5IjpbLTgyNDc5OTk0MCwzMzI0NTU5MSwxNDQzNz
+k1ODUyLC0xNTM2MTkzOTU1LDEyNDA1MzMyMjRdfQ==
 -->
