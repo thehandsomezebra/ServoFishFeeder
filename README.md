@@ -44,11 +44,14 @@ There's a few different ways to do this, but I prefer using PM2.
 
  
 
- - 3D Printed Automated Fish Feeder from [https://www.thingiverse.com/thing:497637/files](https://www.thingiverse.com/thing:497637/files)
+ - 3D Printed Automated Fish Feeder: [https://www.thingiverse.com/thing:497637/files](https://www.thingiverse.com/thing:497637/files)
+ - Install NPM: [https://www.npmjs.com/package/raspberry](https://www.npmjs.com/package/raspberry)
+ - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1ODU5MjA5LC0xOTQ5ODI2NDY4LDMxNj
-MzNzcwNCwtMTE5MDEwMjk2MSwtMjEwODE3MDg0NywyMTI1NTM5
-Mzc5LC01Mjc2MzgxOTQsLTExNTU2OTQ5MTgsLTgyNDc5OTk0MC
-wzMzI0NTU5MSwxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1
-MzMyMjRdfQ==
+eyJoaXN0b3J5IjpbLTQ0MDY0NDQzNiwtMTk0OTgyNjQ2OCwzMT
+YzMzc3MDQsLTExOTAxMDI5NjEsLTIxMDgxNzA4NDcsMjEyNTUz
+OTM3OSwtNTI3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5ND
+AsMzMyNDU1OTEsMTQ0Mzc5NTg1MiwtMTUzNjE5Mzk1NSwxMjQw
+NTMzMjI0XX0=
 -->
