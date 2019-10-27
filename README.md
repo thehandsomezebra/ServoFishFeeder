@@ -30,9 +30,10 @@
 
 
 ### Want to run this at startup?
-
+There's a few different ways to do this, but I prefer using
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk3MDg1MjIsLTE5NDk4MjY0NjgsMz
+eyJoaXN0b3J5IjpbLTEzNjcxMjgyNDEsLTE5NDk4MjY0NjgsMz
 E2MzM3NzA0LC0xMTkwMTAyOTYxLC0yMTA4MTcwODQ3LDIxMjU1
 MzkzNzksLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwtODI0Nzk5OT
 QwLDMzMjQ1NTkxLDE0NDM3OTU4NTIsLTE1MzYxOTM5NTUsMTI0
