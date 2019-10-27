@@ -47,7 +47,8 @@
 7. Once the servo is connected to the 3D print, you may run the feeder test again. `python feeder.py`
 8. If everything looks good, lets turn the test procedures off and set up the times.
 9. `nano feeder.py`
-10. adjust the location of the `#`  `test=False`
+10. Adjust the location of the `#` to turn testing off. `test=False`
+11. 
 
 ### Want to run this at startup?
 There's a few different ways to do this, but I prefer using PM2.
@@ -73,10 +74,10 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIwODczNzcsLTE5ODkwNDM3OTgsLT
-U2NjkxNjE2MCwtMTczMDE3MTEyMCwxNzQ4MDY1NzkwLC00NDA2
-NDQ0MzYsLTE5NDk4MjY0NjgsMzE2MzM3NzA0LC0xMTkwMTAyOT
-YxLC0yMTA4MTcwODQ3LDIxMjU1MzkzNzksLTUyNzYzODE5NCwt
-MTE1NTY5NDkxOCwtODI0Nzk5OTQwLDMzMjQ1NTkxLDE0NDM3OT
-U4NTIsLTE1MzYxOTM5NTUsMTI0MDUzMzIyNF19
+eyJoaXN0b3J5IjpbMTc2OTI1OTU3NiwtMTk4OTA0Mzc5OCwtNT
+Y2OTE2MTYwLC0xNzMwMTcxMTIwLDE3NDgwNjU3OTAsLTQ0MDY0
+NDQzNiwtMTk0OTgyNjQ2OCwzMTYzMzc3MDQsLTExOTAxMDI5Nj
+EsLTIxMDgxNzA4NDcsMjEyNTUzOTM3OSwtNTI3NjM4MTk0LC0x
+MTU1Njk0OTE4LC04MjQ3OTk5NDAsMzMyNDU1OTEsMTQ0Mzc5NT
+g1MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMjI0XX0=
 -->
