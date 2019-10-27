@@ -46,7 +46,8 @@
 6. When `FEEDER READY TO BE FILLED` is displayed - you can connect this to your 3D print. 
 7. Once the servo is connected to the 3D print, you may run the feeder test again. `python feeder.py`
 8. If everything looks good, lets turn the test procedures off and set up the times.
-9. 
+9. `nano feeder.py`
+10. adjust the location of the `#`  `test=False`
 
 ### Want to run this at startup?
 There's a few different ways to do this, but I prefer using PM2.
@@ -72,10 +73,10 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkwNDM3OTgsLTU2NjkxNjE2MCwtMT
-czMDE3MTEyMCwxNzQ4MDY1NzkwLC00NDA2NDQ0MzYsLTE5NDk4
-MjY0NjgsMzE2MzM3NzA0LC0xMTkwMTAyOTYxLC0yMTA4MTcwOD
-Q3LDIxMjU1MzkzNzksLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwt
-ODI0Nzk5OTQwLDMzMjQ1NTkxLDE0NDM3OTU4NTIsLTE1MzYxOT
-M5NTUsMTI0MDUzMzIyNF19
+eyJoaXN0b3J5IjpbLTE1MzIwODczNzcsLTE5ODkwNDM3OTgsLT
+U2NjkxNjE2MCwtMTczMDE3MTEyMCwxNzQ4MDY1NzkwLC00NDA2
+NDQ0MzYsLTE5NDk4MjY0NjgsMzE2MzM3NzA0LC0xMTkwMTAyOT
+YxLC0yMTA4MTcwODQ3LDIxMjU1MzkzNzksLTUyNzYzODE5NCwt
+MTE1NTY5NDkxOCwtODI0Nzk5OTQwLDMzMjQ1NTkxLDE0NDM3OT
+U4NTIsLTE1MzYxOTM5NTUsMTI0MDUzMzIyNF19
 -->
