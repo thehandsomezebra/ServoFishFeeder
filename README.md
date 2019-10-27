@@ -1,7 +1,7 @@
-## ServoFishFeeder
+# ServoFishFeeder
 3D Printed automatic fish feeder  + servo + Raspberry Pi
 
-### Parts List
+## Parts List
 
  - Servo Motor
  - Raspberry Pi 3 B+
@@ -10,7 +10,7 @@
  
  
 
-### Setup
+## Setup
 1. Get your raspberry pi running with your preferred OS.  I use [https://www.raspbian.org/](https://www.raspbian.org/)
 2. SSH or open the terminal to your pi.
 3. `sudo apt-get updates` (updates the list of available packages and their versions)
@@ -25,7 +25,7 @@
 12. Don't change the file name. Hit Enter.
 13. Proceed to Wiring steps!
 
-### Wiring
+## Wiring
 ![raspberry pi wiring](/images/rpi_fish_feeder_bb.png)
 
 **Common Servo Pin-out Wire Colors**
@@ -36,7 +36,7 @@
 | White| Red | Black |
 | Yellow | Red | Brown |
 
-### Setup Continued
+## Setup Continued
 
 1. Now that you have it wired up, let's run it once to get it to zero position.
 2. We only want the servo wired up -- don't connect it to the 3D print just yet.
@@ -54,7 +54,7 @@
 14. Don't change the file name. Hit Enter.
 15. This is now ready to run! `python feeder.py`
 
-### Want to run this at startup...and keep it running all the time?
+## Want to run this at startup...and keep it running all the time?
 There's a few different ways to do this, but I prefer using PM2.
 1. `sudo apt-get updates` 
 2. `sudo apt-get upgrade`
@@ -78,10 +78,10 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTI2MzcxOSwtMTk4OTA0Mzc5OCwtNT
-Y2OTE2MTYwLC0xNzMwMTcxMTIwLDE3NDgwNjU3OTAsLTQ0MDY0
-NDQzNiwtMTk0OTgyNjQ2OCwzMTYzMzc3MDQsLTExOTAxMDI5Nj
-EsLTIxMDgxNzA4NDcsMjEyNTUzOTM3OSwtNTI3NjM4MTk0LC0x
-MTU1Njk0OTE4LC04MjQ3OTk5NDAsMzMyNDU1OTEsMTQ0Mzc5NT
-g1MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMjI0XX0=
+eyJoaXN0b3J5IjpbMTExMDc4ODYzLC0xOTg5MDQzNzk4LC01Nj
+Y5MTYxNjAsLTE3MzAxNzExMjAsMTc0ODA2NTc5MCwtNDQwNjQ0
+NDM2LC0xOTQ5ODI2NDY4LDMxNjMzNzcwNCwtMTE5MDEwMjk2MS
+wtMjEwODE3MDg0NywyMTI1NTM5Mzc5LC01Mjc2MzgxOTQsLTEx
+NTU2OTQ5MTgsLTgyNDc5OTk0MCwzMzI0NTU5MSwxNDQzNzk1OD
+UyLC0xNTM2MTkzOTU1LDEyNDA1MzMyMjRdfQ==
 -->
