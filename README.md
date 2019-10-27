@@ -33,11 +33,13 @@
 There's a few different ways to do this, but I prefer using PM2.
 1. `sudo apt-get updates` 
 2. `sudo apt-get upgrade`
-3. 
+3. `sudo apt-get install nodejs npm`
+4. `npm install pm2 -g`
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDEyMjA0MywtMTk0OTgyNjQ2OCwzMT
-YzMzc3MDQsLTExOTAxMDI5NjEsLTIxMDgxNzA4NDcsMjEyNTUz
-OTM3OSwtNTI3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5ND
-AsMzMyNDU1OTEsMTQ0Mzc5NTg1MiwtMTUzNjE5Mzk1NSwxMjQw
-NTMzMjI0XX0=
+eyJoaXN0b3J5IjpbNTAzMjIwMDg5LC0xOTQ5ODI2NDY4LDMxNj
+MzNzcwNCwtMTE5MDEwMjk2MSwtMjEwODE3MDg0NywyMTI1NTM5
+Mzc5LC01Mjc2MzgxOTQsLTExNTU2OTQ5MTgsLTgyNDc5OTk0MC
+wzMzI0NTU5MSwxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1
+MzMyMjRdfQ==
 -->
