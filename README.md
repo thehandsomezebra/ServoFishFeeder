@@ -21,7 +21,7 @@ This Automatic Fish Feeder is perfect for long weekend vacations. It's currently
 2. SSH or open the terminal to your pi.
 3. `sudo apt-get updates` (updates the list of available packages and their versions)
 4. `sudo apt-get upgrade` (installs the newer versions of the packages you have)
-5. `git clone https://github.com/stephlage/ServoFishFeeder`
+5. `git clone https://github.com/thehandsomezebra/ServoFishFeeder`
 6. `cd ServoFishFeeder`
 7. `pip install schedule`
 8. `nano feeder.py`
@@ -87,11 +87,11 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - Python Job Scheduling: [https://pypi.org/project/schedule/](https://pypi.org/project/schedule/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM4OTIyMjcsMTA3NjQ4NzQ5MCwtNz
-E2MTY0NjIyLDg5NTk3NDE5NCwxNDY5NzUyMzkwLC0yMDI0NzQ3
-NTUxLC03NTY2OTE2MywtMTk4OTA0Mzc5OCwtNTY2OTE2MTYwLC
-0xNzMwMTcxMTIwLDE3NDgwNjU3OTAsLTQ0MDY0NDQzNiwtMTk0
-OTgyNjQ2OCwzMTYzMzc3MDQsLTExOTAxMDI5NjEsLTIxMDgxNz
-A4NDcsMjEyNTUzOTM3OSwtNTI3NjM4MTk0LC0xMTU1Njk0OTE4
-LC04MjQ3OTk5NDBdfQ==
+eyJoaXN0b3J5IjpbMTI2NzE1Mzk3MCwtMjEzMzg5MjIyNywxMD
+c2NDg3NDkwLC03MTYxNjQ2MjIsODk1OTc0MTk0LDE0Njk3NTIz
+OTAsLTIwMjQ3NDc1NTEsLTc1NjY5MTYzLC0xOTg5MDQzNzk4LC
+01NjY5MTYxNjAsLTE3MzAxNzExMjAsMTc0ODA2NTc5MCwtNDQw
+NjQ0NDM2LC0xOTQ5ODI2NDY4LDMxNjMzNzcwNCwtMTE5MDEwMj
+k2MSwtMjEwODE3MDg0NywyMTI1NTM5Mzc5LC01Mjc2MzgxOTQs
+LTExNTU2OTQ5MThdfQ==
 -->
