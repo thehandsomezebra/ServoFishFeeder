@@ -10,11 +10,15 @@
  
  
 
-### Instructions
+### Setup
 1. Get your raspberry pi running with your preferred OS.  I use [https://www.raspbian.org/](https://www.raspbian.org/)
-2. 
+
+
+### Wiring
+![raspberry pi wiring](/images/rpi_fish_feeder_bb.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU2OTQ5MTgsLTgyNDc5OTk0MCwzMz
-I0NTU5MSwxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1MzMy
-MjRdfQ==
+eyJoaXN0b3J5IjpbLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwtOD
+I0Nzk5OTQwLDMzMjQ1NTkxLDE0NDM3OTU4NTIsLTE1MzYxOTM5
+NTUsMTI0MDUzMzIyNF19
 -->
