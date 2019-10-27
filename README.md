@@ -50,10 +50,11 @@
 10. Adjust the location of the `#` to turn testing off. `test=False`
 11. Set the `whattime` variable in 24 hour format.  You can see an example of 10pm and 9am in the code.  `whattime = "09:00"`
 12. Hit `ctrl + x`
-11. Hit `y`
-12. Don't change the file name. Hit Enter.
+13. Hit `y`
+14. Don't change the file name. Hit Enter.
+15. This is now ready to run! `python feeder.py`
 
-### Want to run this at startup?
+### Want to run this at startup...and keep it running all the time?
 There's a few different ways to do this, but I prefer using PM2.
 1. `sudo apt-get updates` 
 2. `sudo apt-get upgrade`
@@ -77,7 +78,7 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDE5MjkxMiwtMTk4OTA0Mzc5OCwtNT
+eyJoaXN0b3J5IjpbLTg2MTI2MzcxOSwtMTk4OTA0Mzc5OCwtNT
 Y2OTE2MTYwLC0xNzMwMTcxMTIwLDE3NDgwNjU3OTAsLTQ0MDY0
 NDQzNiwtMTk0OTgyNjQ2OCwzMTYzMzc3MDQsLTExOTAxMDI5Nj
 EsLTIxMDgxNzA4NDcsMjEyNTUzOTM3OSwtNTI3NjM4MTk0LC0x
