@@ -12,7 +12,10 @@
 
 ### Setup
 1. Get your raspberry pi running with your preferred OS.  I use [https://www.raspbian.org/](https://www.raspbian.org/)
-2. 
+2. SSH or open the terminal to your pi.
+3. `sudo apt-get updates`
+4. `sudo apt-get upgrade`
+5. 
 
 ### Wiring
 ![raspberry pi wiring](/images/rpi_fish_feeder_bb.png)
@@ -28,8 +31,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MzM3NzA0LC0xMTkwMTAyOTYxLC0yMT
-A4MTcwODQ3LDIxMjU1MzkzNzksLTUyNzYzODE5NCwtMTE1NTY5
-NDkxOCwtODI0Nzk5OTQwLDMzMjQ1NTkxLDE0NDM3OTU4NTIsLT
-E1MzYxOTM5NTUsMTI0MDUzMzIyNF19
+eyJoaXN0b3J5IjpbMTgzNjc0MTUwOSwzMTYzMzc3MDQsLTExOT
+AxMDI5NjEsLTIxMDgxNzA4NDcsMjEyNTUzOTM3OSwtNTI3NjM4
+MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5NDAsMzMyNDU1OTEsMT
+Q0Mzc5NTg1MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMjI0XX0=
 -->
