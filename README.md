@@ -16,8 +16,8 @@
 
 ### Wiring
 ![raspberry pi wiring](/images/rpi_fish_feeder_bb.png)
-*Note: Some servos have different color wiring.*
-**Common Wiring**
+
+**Common Servo Wire Colors**
 | Signal | + | - |
 |--------|----|----|
 | Yellow | Red | Black |
@@ -28,7 +28,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTUzOTM3OSwtNTI3NjM4MTk0LC0xMT
-U1Njk0OTE4LC04MjQ3OTk5NDAsMzMyNDU1OTEsMTQ0Mzc5NTg1
-MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMjI0XX0=
+eyJoaXN0b3J5IjpbLTIxMDgxNzA4NDcsMjEyNTUzOTM3OSwtNT
+I3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5NDAsMzMyNDU1
+OTEsMTQ0Mzc5NTg1MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMjI0XX
+0=
 -->
