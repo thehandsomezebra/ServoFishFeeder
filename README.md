@@ -41,7 +41,7 @@ Setup Continued
 2. We only want the servo wired up -- don't connect it to the 3D print just yet.
 3. `cd ServoFishFeeder`  
 4. `python feeder.py`
-5. Testing will run to show Wednesday, Thursday, Friday, Saturday and Sunday positions
+5. Testing will run Wednesday, Thursday, Friday, Saturday and Sunday positions...then walk itself back to 
 
 ### Want to run this at startup?
 There's a few different ways to do this, but I prefer using PM2.
@@ -67,7 +67,7 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzU2MjU0MSwtMTczMDE3MTEyMCwxNz
+eyJoaXN0b3J5IjpbLTg0NzkxNzIxOCwtMTczMDE3MTEyMCwxNz
 Q4MDY1NzkwLC00NDA2NDQ0MzYsLTE5NDk4MjY0NjgsMzE2MzM3
 NzA0LC0xMTkwMTAyOTYxLC0yMTA4MTcwODQ3LDIxMjU1MzkzNz
 ksLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwtODI0Nzk5OTQwLDMz
