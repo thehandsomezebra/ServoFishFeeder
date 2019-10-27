@@ -23,7 +23,7 @@
 10. Hit `ctrl + x`
 11. Hit `y`
 12. Don't change the file name. Hit Enter.
-13. Proceed to Wiring !
+13. Proceed to Wiring.
 
 ## Wiring
 ![raspberry pi wiring](/images/rpi_fish_feeder_bb.png)
@@ -78,11 +78,11 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - Python Job Scheduling: [https://pypi.org/project/schedule/](https://pypi.org/project/schedule/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTEyODAsLTc1NjY5MTYzLC0xOTg5MD
-QzNzk4LC01NjY5MTYxNjAsLTE3MzAxNzExMjAsMTc0ODA2NTc5
-MCwtNDQwNjQ0NDM2LC0xOTQ5ODI2NDY4LDMxNjMzNzcwNCwtMT
-E5MDEwMjk2MSwtMjEwODE3MDg0NywyMTI1NTM5Mzc5LC01Mjc2
-MzgxOTQsLTExNTU2OTQ5MTgsLTgyNDc5OTk0MCwzMzI0NTU5MS
-wxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1MzMyMjRdfQ==
-
+eyJoaXN0b3J5IjpbLTIwMjQ3NDc1NTEsLTc1NjY5MTYzLC0xOT
+g5MDQzNzk4LC01NjY5MTYxNjAsLTE3MzAxNzExMjAsMTc0ODA2
+NTc5MCwtNDQwNjQ0NDM2LC0xOTQ5ODI2NDY4LDMxNjMzNzcwNC
+wtMTE5MDEwMjk2MSwtMjEwODE3MDg0NywyMTI1NTM5Mzc5LC01
+Mjc2MzgxOTQsLTExNTU2OTQ5MTgsLTgyNDc5OTk0MCwzMzI0NT
+U5MSwxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1MzMyMjRd
+fQ==
 -->
