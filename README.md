@@ -5,8 +5,7 @@
 This Automatic Fish Feeder is perfect for long weekend vacations. It's currently set up for Wednesday thru Sunday, but feel free to fork this and adjust as you'd like. 
 
 Instructions are written in an easy-to-follow format so that even if you don't have a background in programming, raspberry pis, python or servos... you should hopefully be able to follow along to make this for your aquarium.
-If you have any questions, feel free to reach out via twitter @handsomezebra or email contact@handsomezebra.com
-
+If you have any questions, feel free to reach out via twitter [@handsomezebra](https://twitter.com/handsomezebra) or email contact@handsomezebra.com
 
 🤖🐟
 
