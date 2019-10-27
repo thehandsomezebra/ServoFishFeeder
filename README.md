@@ -14,7 +14,7 @@
 1. Get your raspberry pi running with your preferred OS.  I use [https://www.raspbian.org/](https://www.raspbian.org/)
 2. SSH or open the terminal to your pi.
 3. `sudo apt-get updates` (updates the list of available packages and their versions)
-4. `sudo apt-get upgrade` (actually installs the newer versions of the packages you have)
+4. `sudo apt-get upgrade` (installs the newer versions of the packages you have)
 5. 
 
 ### Wiring
@@ -31,8 +31,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTc1NTc1OSwzMTYzMzc3MDQsLTExOT
-AxMDI5NjEsLTIxMDgxNzA4NDcsMjEyNTUzOTM3OSwtNTI3NjM4
-MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5NDAsMzMyNDU1OTEsMT
-Q0Mzc5NTg1MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMjI0XX0=
+eyJoaXN0b3J5IjpbLTE5NDk4MjY0NjgsMzE2MzM3NzA0LC0xMT
+kwMTAyOTYxLC0yMTA4MTcwODQ3LDIxMjU1MzkzNzksLTUyNzYz
+ODE5NCwtMTE1NTY5NDkxOCwtODI0Nzk5OTQwLDMzMjQ1NTkxLD
+E0NDM3OTU4NTIsLTE1MzYxOTM5NTUsMTI0MDUzMzIyNF19
 -->
