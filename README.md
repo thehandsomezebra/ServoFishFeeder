@@ -1,4 +1,4 @@
-## rpi_python-ServoFishFeeder
+## ServoFishFeeder
 3D Printed automatic fish feeder  + servo + Raspberry Pi
 
 ### Parts List
@@ -53,9 +53,9 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODA2NTc5MCwtNDQwNjQ0NDM2LC0xOT
-Q5ODI2NDY4LDMxNjMzNzcwNCwtMTE5MDEwMjk2MSwtMjEwODE3
-MDg0NywyMTI1NTM5Mzc5LC01Mjc2MzgxOTQsLTExNTU2OTQ5MT
-gsLTgyNDc5OTk0MCwzMzI0NTU5MSwxNDQzNzk1ODUyLC0xNTM2
-MTkzOTU1LDEyNDA1MzMyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE0MzI3MzkzMjMsMTc0ODA2NTc5MCwtND
+QwNjQ0NDM2LC0xOTQ5ODI2NDY4LDMxNjMzNzcwNCwtMTE5MDEw
+Mjk2MSwtMjEwODE3MDg0NywyMTI1NTM5Mzc5LC01Mjc2MzgxOT
+QsLTExNTU2OTQ5MTgsLTgyNDc5OTk0MCwzMzI0NTU5MSwxNDQz
+Nzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1MzMyMjRdfQ==
 -->
