@@ -19,10 +19,14 @@
 Note: Some servos have different color wiring.
 Common wiring examples:
 | Signal | + | - |
-|----------------|
+|--------|----|----|
+| Yellow | Red | Black |
+| White| Red | Black |
+| Yellow | Red | Brown|
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTgzNzM3MiwtNTI3NjM4MTk0LC0xMT
-U1Njk0OTE4LC04MjQ3OTk5NDAsMzMyNDU1OTEsMTQ0Mzc5NTg1
-MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMjI0XX0=
+eyJoaXN0b3J5IjpbMTAxMzI0MzkwLC01Mjc2MzgxOTQsLTExNT
+U2OTQ5MTgsLTgyNDc5OTk0MCwzMzI0NTU5MSwxNDQzNzk1ODUy
+LC0xNTM2MTkzOTU1LDEyNDA1MzMyMjRdfQ==
 -->
