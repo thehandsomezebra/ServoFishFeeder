@@ -17,19 +17,18 @@
 ### Wiring
 ![raspberry pi wiring](/images/rpi_fish_feeder_bb.png)
 
-**Common Servo Wire Colors**
+**Common Servo Pinout Wire Colors**
 | Signal | + | - |
 |--------|----|----|
 | Yellow | Red | Black |
 | White| Red | Black |
-| Yellow | Red | Brown
-
+| Yellow | Red | Brown |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDgxNzA4NDcsMjEyNTUzOTM3OSwtNT
-I3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5NDAsMzMyNDU1
-OTEsMTQ0Mzc5NTg1MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMjI0XX
-0=
+eyJoaXN0b3J5IjpbNDg4MjU2MDY2LC0yMTA4MTcwODQ3LDIxMj
+U1MzkzNzksLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwtODI0Nzk5
+OTQwLDMzMjQ1NTkxLDE0NDM3OTU4NTIsLTE1MzYxOTM5NTUsMT
+I0MDUzMzIyNF19
 -->
