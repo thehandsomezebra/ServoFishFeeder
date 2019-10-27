@@ -76,9 +76,9 @@ There's a few different ways to do this, but I prefer using PM2.
  - 3D Printed Automated Fish Feeder: [https://www.thingiverse.com/thing:497637/files](https://www.thingiverse.com/thing:497637/files)
  - Install NPM: [https://www.npmjs.com/package/raspberry](https://www.npmjs.com/package/raspberry)
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
- - 
+ - Python Job Scheduling: [https://pypi.org/project/schedule/](https://pypi.org/project/schedule/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDc4ODYzLC0xOTg5MDQzNzk4LC01Nj
+eyJoaXN0b3J5IjpbLTc1NjY5MTYzLC0xOTg5MDQzNzk4LC01Nj
 Y5MTYxNjAsLTE3MzAxNzExMjAsMTc0ODA2NTc5MCwtNDQwNjQ0
 NDM2LC0xOTQ5ODI2NDY4LDMxNjMzNzcwNCwtMTE5MDEwMjk2MS
 wtMjEwODE3MDg0NywyMTI1NTM5Mzc5LC01Mjc2MzgxOTQsLTEx
