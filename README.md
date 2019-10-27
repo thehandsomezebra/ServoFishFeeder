@@ -20,7 +20,7 @@
 **Common Servo Pinout Wire Colors**
 
 | Signal | + | - |
-| :---: | :---: |----|
+| :---: | :---: | :---: |
 | Yellow | Red | Black |
 | White| Red | Black |
 | Yellow | Red | Brown |
@@ -29,8 +29,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTYwNzAxMiwtMjEwODE3MDg0NywyMT
-I1NTM5Mzc5LC01Mjc2MzgxOTQsLTExNTU2OTQ5MTgsLTgyNDc5
-OTk0MCwzMzI0NTU5MSwxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LD
-EyNDA1MzMyMjRdfQ==
+eyJoaXN0b3J5IjpbLTE5MzI2Mzg0MDcsLTIxMDgxNzA4NDcsMj
+EyNTUzOTM3OSwtNTI3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3
+OTk5NDAsMzMyNDU1OTEsMTQ0Mzc5NTg1MiwtMTUzNjE5Mzk1NS
+wxMjQwNTMzMjI0XX0=
 -->
