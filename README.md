@@ -45,7 +45,8 @@
 5. Testing will run Wednesday, Thursday, Friday, Saturday and Sunday positions...then walk itself back to start.
 6. When `FEEDER READY TO BE FILLED` is displayed - you can connect this to your 3D print. 
 7. Once the servo is connected to the 3D print, you may run the feeder test again. `python feeder.py`
-8. 
+8. If everything looks good, lets turn the test procedures off and set up the times.
+9. 
 
 ### Want to run this at startup?
 There's a few different ways to do this, but I prefer using PM2.
@@ -71,7 +72,7 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ1MTkxMzQsLTU2NjkxNjE2MCwtMT
+eyJoaXN0b3J5IjpbLTE5ODkwNDM3OTgsLTU2NjkxNjE2MCwtMT
 czMDE3MTEyMCwxNzQ4MDY1NzkwLC00NDA2NDQ0MzYsLTE5NDk4
 MjY0NjgsMzE2MzM3NzA0LC0xMTkwMTAyOTYxLC0yMTA4MTcwOD
 Q3LDIxMjU1MzkzNzksLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwt
