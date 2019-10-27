@@ -38,7 +38,7 @@
 
 ## Setup Continued
 
-1. Now that you have it wired up, let's run it once to get it to zero position.
+1. Now that you have it wired up, let's run it once to get it to the startposition.
 2. We only want the servo wired up -- don't connect it to the 3D print just yet.
 3. `cd ServoFishFeeder`  
 4. `python feeder.py`
@@ -78,11 +78,11 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - Python Job Scheduling: [https://pypi.org/project/schedule/](https://pypi.org/project/schedule/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ3NDc1NTEsLTc1NjY5MTYzLC0xOT
-g5MDQzNzk4LC01NjY5MTYxNjAsLTE3MzAxNzExMjAsMTc0ODA2
-NTc5MCwtNDQwNjQ0NDM2LC0xOTQ5ODI2NDY4LDMxNjMzNzcwNC
-wtMTE5MDEwMjk2MSwtMjEwODE3MDg0NywyMTI1NTM5Mzc5LC01
-Mjc2MzgxOTQsLTExNTU2OTQ5MTgsLTgyNDc5OTk0MCwzMzI0NT
-U5MSwxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1MzMyMjRd
-fQ==
+eyJoaXN0b3J5IjpbMTQ2OTc1MjM5MCwtMjAyNDc0NzU1MSwtNz
+U2NjkxNjMsLTE5ODkwNDM3OTgsLTU2NjkxNjE2MCwtMTczMDE3
+MTEyMCwxNzQ4MDY1NzkwLC00NDA2NDQ0MzYsLTE5NDk4MjY0Nj
+gsMzE2MzM3NzA0LC0xMTkwMTAyOTYxLC0yMTA4MTcwODQ3LDIx
+MjU1MzkzNzksLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwtODI0Nz
+k5OTQwLDMzMjQ1NTkxLDE0NDM3OTU4NTIsLTE1MzYxOTM5NTUs
+MTI0MDUzMzIyNF19
 -->
