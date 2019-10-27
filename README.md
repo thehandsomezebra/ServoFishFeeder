@@ -36,8 +36,17 @@ There's a few different ways to do this, but I prefer using PM2.
 3. `sudo apt-get install nodejs npm`
 4. `npm install pm2 -g`
 5. 
+
+
+
+
+# Resources:
+
+ 
+
+ - 3D Printed Automated Fish Feeder from [https://www.thingiverse.com/thing:497637/files](https://www.thingiverse.com/thing:497637/files)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMjIwMDg5LC0xOTQ5ODI2NDY4LDMxNj
+eyJoaXN0b3J5IjpbNTM1ODU5MjA5LC0xOTQ5ODI2NDY4LDMxNj
 MzNzcwNCwtMTE5MDEwMjk2MSwtMjEwODE3MDg0NywyMTI1NTM5
 Mzc5LC01Mjc2MzgxOTQsLTExNTU2OTQ5MTgsLTgyNDc5OTk0MC
 wzMzI0NTU5MSwxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1
