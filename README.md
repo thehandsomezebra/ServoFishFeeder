@@ -35,7 +35,7 @@ There's a few different ways to do this, but I prefer using PM2.
 2. `sudo apt-get upgrade`
 3. `sudo apt-get install nodejs npm`
 4. `npm install pm2 -g`
-5. Navigate to the location
+5. Navigate to your 
 
 
 
@@ -49,7 +49,7 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzAzODA0MiwtNDQwNjQ0NDM2LC0xOT
+eyJoaXN0b3J5IjpbLTE1NTMwMTY5NSwtNDQwNjQ0NDM2LC0xOT
 Q5ODI2NDY4LDMxNjMzNzcwNCwtMTE5MDEwMjk2MSwtMjEwODE3
 MDg0NywyMTI1NTM5Mzc5LC01Mjc2MzgxOTQsLTExNTU2OTQ5MT
 gsLTgyNDc5OTk0MCwzMzI0NTU5MSwxNDQzNzk1ODUyLC0xNTM2
