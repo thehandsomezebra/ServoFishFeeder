@@ -38,8 +38,10 @@
 
 Setup Continued
 1. Now that you have it wired up, let's run it once to get it to zero position.
-2. `cd ServoFishFeeder` 
-3. `python feeder.py`
+2. We only want the servo wired up -- don't connect it to the 3D print just yet.
+3. `cd ServoFishFeeder`  
+4. `python feeder.py`
+5. 
 
 ### Want to run this at startup?
 There's a few different ways to do this, but I prefer using PM2.
@@ -65,10 +67,10 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3OTIzNzM5LC0xNzMwMTcxMTIwLDE3ND
-gwNjU3OTAsLTQ0MDY0NDQzNiwtMTk0OTgyNjQ2OCwzMTYzMzc3
-MDQsLTExOTAxMDI5NjEsLTIxMDgxNzA4NDcsMjEyNTUzOTM3OS
-wtNTI3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5NDAsMzMy
-NDU1OTEsMTQ0Mzc5NTg1MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMj
-I0XX0=
+eyJoaXN0b3J5IjpbLTEyMzU0NzI2MDEsLTE3MzAxNzExMjAsMT
+c0ODA2NTc5MCwtNDQwNjQ0NDM2LC0xOTQ5ODI2NDY4LDMxNjMz
+NzcwNCwtMTE5MDEwMjk2MSwtMjEwODE3MDg0NywyMTI1NTM5Mz
+c5LC01Mjc2MzgxOTQsLTExNTU2OTQ5MTgsLTgyNDc5OTk0MCwz
+MzI0NTU5MSwxNDQzNzk1ODUyLC0xNTM2MTkzOTU1LDEyNDA1Mz
+MyMjRdfQ==
 -->
