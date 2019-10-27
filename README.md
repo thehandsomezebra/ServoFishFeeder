@@ -30,12 +30,14 @@
 
 
 ### Want to run this at startup?
-There's a few different ways to do this, but I prefer using
-1. 
+There's a few different ways to do this, but I prefer using PM2.
+1. `sudo apt-get updates` 
+2. `sudo apt-get upgrade`
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjcxMjgyNDEsLTE5NDk4MjY0NjgsMz
-E2MzM3NzA0LC0xMTkwMTAyOTYxLC0yMTA4MTcwODQ3LDIxMjU1
-MzkzNzksLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwtODI0Nzk5OT
-QwLDMzMjQ1NTkxLDE0NDM3OTU4NTIsLTE1MzYxOTM5NTUsMTI0
-MDUzMzIyNF19
+eyJoaXN0b3J5IjpbMTgxMDEyMjA0MywtMTk0OTgyNjQ2OCwzMT
+YzMzc3MDQsLTExOTAxMDI5NjEsLTIxMDgxNzA4NDcsMjEyNTUz
+OTM3OSwtNTI3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5ND
+AsMzMyNDU1OTEsMTQ0Mzc5NTg1MiwtMTUzNjE5Mzk1NSwxMjQw
+NTMzMjI0XX0=
 -->
