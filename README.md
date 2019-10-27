@@ -18,9 +18,12 @@
 5. `git clone https://github.com/stephlage/ServoFishFeeder`
 6. `cd ServoFishFeeder`
 7. `pip install schedule`
-8. `nano python.py`
-9. 
-10. `python feeder.py`
+8. `nano feeder.py`
+9. Ensure that `test=False`
+10. Hit `ctrl + x`
+11. Hit `y`
+12. 
+13. `python feeder.py`
 
 ### Wiring
 ![raspberry pi wiring](/images/rpi_fish_feeder_bb.png)
@@ -58,10 +61,10 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyMzYwOTk1LC0xNzMwMTcxMTIwLDE3ND
-gwNjU3OTAsLTQ0MDY0NDQzNiwtMTk0OTgyNjQ2OCwzMTYzMzc3
-MDQsLTExOTAxMDI5NjEsLTIxMDgxNzA4NDcsMjEyNTUzOTM3OS
-wtNTI3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5NDAsMzMy
-NDU1OTEsMTQ0Mzc5NTg1MiwtMTUzNjE5Mzk1NSwxMjQwNTMzMj
-I0XX0=
+eyJoaXN0b3J5IjpbLTUwNTg0OTEwNywtMTczMDE3MTEyMCwxNz
+Q4MDY1NzkwLC00NDA2NDQ0MzYsLTE5NDk4MjY0NjgsMzE2MzM3
+NzA0LC0xMTkwMTAyOTYxLC0yMTA4MTcwODQ3LDIxMjU1MzkzNz
+ksLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwtODI0Nzk5OTQwLDMz
+MjQ1NTkxLDE0NDM3OTU4NTIsLTE1MzYxOTM5NTUsMTI0MDUzMz
+IyNF19
 -->
