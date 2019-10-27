@@ -47,7 +47,7 @@
 3. `cd ServoFishFeeder`  
 4. `python feeder.py`
 5. Testing will run Wednesday, Thursday, Friday, Saturday and Sunday positions...then walk itself back to start.
-6. When `FEEDER READY TO BE FILLED` is displayed - you can connect this to your 3D print. 
+6. When `FEEDER READY TO BE FILLED` is displayed - you can connect this to your 3D print.  ![servo attached to feeder](/images/feeder1.png)
 7. Once the servo is connected to the 3D print, you may run the feeder test again. `python feeder.py`
 8. If everything looks good, lets turn the test procedures off and set up the times.
 9. `nano feeder.py`
@@ -82,11 +82,11 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - Python Job Scheduling: [https://pypi.org/project/schedule/](https://pypi.org/project/schedule/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjE2NDYyMiw4OTU5NzQxOTQsMTQ2OT
-c1MjM5MCwtMjAyNDc0NzU1MSwtNzU2NjkxNjMsLTE5ODkwNDM3
-OTgsLTU2NjkxNjE2MCwtMTczMDE3MTEyMCwxNzQ4MDY1NzkwLC
-00NDA2NDQ0MzYsLTE5NDk4MjY0NjgsMzE2MzM3NzA0LC0xMTkw
-MTAyOTYxLC0yMTA4MTcwODQ3LDIxMjU1MzkzNzksLTUyNzYzOD
-E5NCwtMTE1NTY5NDkxOCwtODI0Nzk5OTQwLDMzMjQ1NTkxLDE0
-NDM3OTU4NTJdfQ==
+eyJoaXN0b3J5IjpbLTYxODkxOTcwNCwtNzE2MTY0NjIyLDg5NT
+k3NDE5NCwxNDY5NzUyMzkwLC0yMDI0NzQ3NTUxLC03NTY2OTE2
+MywtMTk4OTA0Mzc5OCwtNTY2OTE2MTYwLC0xNzMwMTcxMTIwLD
+E3NDgwNjU3OTAsLTQ0MDY0NDQzNiwtMTk0OTgyNjQ2OCwzMTYz
+Mzc3MDQsLTExOTAxMDI5NjEsLTIxMDgxNzA4NDcsMjEyNTUzOT
+M3OSwtNTI3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5NDAs
+MzMyNDU1OTFdfQ==
 -->
