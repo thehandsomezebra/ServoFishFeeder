@@ -1,5 +1,7 @@
 # ServoFishFeeder
 3D Printed automatic fish feeder  + servo + Raspberry Pi
+5 Day Fish 
+This Automatic Fish Feeder is perfect for long weekend vacations. It's currently set up for Wednesday thru Sunday, but feel free to fork this and adjust as you'd like.
 
 ## Parts List
 
@@ -82,11 +84,11 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - Python Job Scheduling: [https://pypi.org/project/schedule/](https://pypi.org/project/schedule/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjQ4NzQ5MCwtNzE2MTY0NjIyLDg5NT
-k3NDE5NCwxNDY5NzUyMzkwLC0yMDI0NzQ3NTUxLC03NTY2OTE2
-MywtMTk4OTA0Mzc5OCwtNTY2OTE2MTYwLC0xNzMwMTcxMTIwLD
-E3NDgwNjU3OTAsLTQ0MDY0NDQzNiwtMTk0OTgyNjQ2OCwzMTYz
-Mzc3MDQsLTExOTAxMDI5NjEsLTIxMDgxNzA4NDcsMjEyNTUzOT
-M3OSwtNTI3NjM4MTk0LC0xMTU1Njk0OTE4LC04MjQ3OTk5NDAs
-MzMyNDU1OTFdfQ==
+eyJoaXN0b3J5IjpbLTczNjY5MzUzOSwxMDc2NDg3NDkwLC03MT
+YxNjQ2MjIsODk1OTc0MTk0LDE0Njk3NTIzOTAsLTIwMjQ3NDc1
+NTEsLTc1NjY5MTYzLC0xOTg5MDQzNzk4LC01NjY5MTYxNjAsLT
+E3MzAxNzExMjAsMTc0ODA2NTc5MCwtNDQwNjQ0NDM2LC0xOTQ5
+ODI2NDY4LDMxNjMzNzcwNCwtMTE5MDEwMjk2MSwtMjEwODE3MD
+g0NywyMTI1NTM5Mzc5LC01Mjc2MzgxOTQsLTExNTU2OTQ5MTgs
+LTgyNDc5OTk0MF19
 -->
