@@ -6,6 +6,7 @@
  - Servo Motor
  - Raspberry Pi 3 B+
  - 1k &ohm; resistor
+ - Breadboard
  - 3D Printed Automated Fish Feeder from [https://www.thingiverse.com/thing:497637/files](https://www.thingiverse.com/thing:497637/files)
  
  
@@ -26,6 +27,9 @@
 13. Proceed to Wiring.
 
 ## Wiring
+Breadboard:
+![raspberry pi wiring with breadboard](/images/rpi_fish_feeder_bb1.png)
+Directly wired:
 ![raspberry pi wiring](/images/rpi_fish_feeder_bb.png)
 
 **Common Servo Pin-out Wire Colors**
@@ -78,11 +82,11 @@ There's a few different ways to do this, but I prefer using PM2.
  - Install PM2: [https://www.npmjs.com/package/pm2](https://www.npmjs.com/package/pm2)
  - Python Job Scheduling: [https://pypi.org/project/schedule/](https://pypi.org/project/schedule/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTc1MjM5MCwtMjAyNDc0NzU1MSwtNz
-U2NjkxNjMsLTE5ODkwNDM3OTgsLTU2NjkxNjE2MCwtMTczMDE3
-MTEyMCwxNzQ4MDY1NzkwLC00NDA2NDQ0MzYsLTE5NDk4MjY0Nj
-gsMzE2MzM3NzA0LC0xMTkwMTAyOTYxLC0yMTA4MTcwODQ3LDIx
-MjU1MzkzNzksLTUyNzYzODE5NCwtMTE1NTY5NDkxOCwtODI0Nz
-k5OTQwLDMzMjQ1NTkxLDE0NDM3OTU4NTIsLTE1MzYxOTM5NTUs
-MTI0MDUzMzIyNF19
+eyJoaXN0b3J5IjpbODk1OTc0MTk0LDE0Njk3NTIzOTAsLTIwMj
+Q3NDc1NTEsLTc1NjY5MTYzLC0xOTg5MDQzNzk4LC01NjY5MTYx
+NjAsLTE3MzAxNzExMjAsMTc0ODA2NTc5MCwtNDQwNjQ0NDM2LC
+0xOTQ5ODI2NDY4LDMxNjMzNzcwNCwtMTE5MDEwMjk2MSwtMjEw
+ODE3MDg0NywyMTI1NTM5Mzc5LC01Mjc2MzgxOTQsLTExNTU2OT
+Q5MTgsLTgyNDc5OTk0MCwzMzI0NTU5MSwxNDQzNzk1ODUyLC0x
+NTM2MTkzOTU1XX0=
 -->
